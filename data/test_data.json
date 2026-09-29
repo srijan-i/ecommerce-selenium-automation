@@ -1,0 +1,36 @@
+{
+  "user_mode": "new",
+  "cleanup_account": true,
+
+  "existing_user": {
+    "email": "",
+    "password": ""
+  },
+
+  "new_user": {
+    "email_prefix": "qa.user",
+    "title": "Mr",
+    "name": "Selenium Demo",
+    "password": "Demo@12345",
+    "day": "10",
+    "month": "May",
+    "year": "1995",
+    "first_name": "Selenium",
+    "last_name": "Demo",
+    "company": "Demo Corp",
+    "address": "123 Automation Street",
+    "country": "United States",
+    "state": "Texas",
+    "city": "Houston",
+    "zipcode": "77001",
+    "mobile": "9998887777"
+  },
+
+  "search": {
+    "product_keyword": "Dress"
+  },
+
+  "cart": {
+    "quantity": 3
+  }
+}
